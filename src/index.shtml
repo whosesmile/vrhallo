@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>VRHALLO</title>
+    <link rel="stylesheet" type="text/css" href="./css/vrhallo.min.css" />
+  </head>
+  <body class="welcome">
+    <div class="rotate">
+      <p>建设中</p>
+    </div>
+  </body>
+</html>
