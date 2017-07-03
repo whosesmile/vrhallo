@@ -19,8 +19,20 @@ html, body {
     background: transparent url(//img1.qdingnet.com/a9e2d9488f82eada3bcd4caf496fbe38.png) center center no-repeat;
     background-size: 100%;
     text-align: center;
-    line-height: 200px;
     color: #145439;
     animation: vr-rotate 20s linear infinite;
+    display: flex;
+    align-items: center;
+
+    p {
+      margin: auto;
+      text-align: center;
+    }
+  }
+  @media (max-width:600px) {
+    .rotate {
+      width: 140px;
+      height: 140px;
+    }
   }
 }
