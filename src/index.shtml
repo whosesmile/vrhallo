@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>VRHALLO</title>
+    <meta charset="utf-8" />
+    <title>VR你好</title>
+    <meta name="format-detection" content="telephone=no,email=no,address=no" />
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1" />
     <link rel="stylesheet" type="text/css" href="./css/vrhallo.min.css" />
   </head>
   <body class="welcome">
