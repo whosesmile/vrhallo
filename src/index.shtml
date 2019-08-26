@@ -1,15 +1,23 @@
 <!DOCTYPE html>
 <html>
+
   <head>
     <meta charset="utf-8" />
     <title>VR你好</title>
     <meta name="format-detection" content="telephone=no,email=no,address=no" />
-    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1" />
+    <meta name="viewport"
+      content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1" />
     <link rel="stylesheet" type="text/css" href="./css/vrhallo.min.css" />
   </head>
+
   <body class="welcome">
-    <div class="rotate">
+    <!-- <div class="rotate">
       <p>建设中</p>
-    </div>
+    </div> -->
+
+    <a class="anchor"
+      href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zhouchangyin/app/master/btcpool/manifest.plist"
+      download>点此下载</a>
   </body>
+
 </html>
